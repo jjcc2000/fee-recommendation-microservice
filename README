@@ -6,4 +6,4 @@ maxPriorityFeePerGasGwei (tip: from query or provider fallback)
 
 maxFeePerGasGwei (base fee + headroom + tip)
 
-Frontend and database integrations are planned and on developt; the API is production-ready for backend use.
+Frontend and database integrations are planned and on developt; the API is production-ready for backend use and will be Dockerized.
