@@ -9,3 +9,6 @@ maxFeePerGasGwei (base fee + headroom + tip)
 Frontend and database integrations are planned and on developt; the API is production-ready for backend use and will be Dockerized.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johan-chac%C3%B3n)
+
+
+[![Personal Page]](https://www.byjohanchacon.com/)
